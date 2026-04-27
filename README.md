@@ -1,4 +1,4 @@
-# HashiCorp Certified: Vault Associate 2021
+# HashiCorp Certified: Vault Associate 2026
 
 This code repository is associated with practicals within the HashiCorp Certified: Vault Associate video course by Zeal Vora in Udemy.
 
